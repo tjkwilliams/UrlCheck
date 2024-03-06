@@ -1,0 +1,1 @@
+The purpose of this program is to check social media websites servers to see if they are down.
